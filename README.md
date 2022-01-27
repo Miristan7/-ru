@@ -1,2 +1,1 @@
-# -ru
-Конвертирует текст в код Морзе. Сделано на с++ с помощью форм.
+Program for converting Latin characters to Morse code with sound. Made in Windows Form C++.
